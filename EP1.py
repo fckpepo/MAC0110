@@ -1,4 +1,6 @@
 #A nota deste EP foi 9.2
+#(-0,4) Erro de formatação: As impressões deveriam ser exatamente como no enunciado.
+#(-0,4) Código confuso nas linhas 30-51: todo esse trecho poderia estar fora do laço principal.
 
 velocidade_media = 0
 distancia_total = 0 
