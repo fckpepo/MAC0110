@@ -1,3 +1,5 @@
+#A nota deste EP foi 9.2
+
 velocidade_media = 0
 distancia_total = 0 
 tempo_total = 0  
